@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Classification_MainProject</string>
+
+    <string-array name="categories">
+        <item>Plants</item>
+        <item>Flowers</item>
+        <item>Special Places</item>
+    </string-array>
+</resources>
